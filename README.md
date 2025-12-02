@@ -5,7 +5,7 @@ Un simulateur d'aspirateur intelligent avec pathfinding A* qui gère autonomique
 ## Fonctionnalités
 
 ### Navigation Intelligente
-- **Algorithme \*** pour trouver le chemin optimal
+- **Algorithme *** pour trouver le chemin optimal
 - Navigation autour des obstacles (meubles)
 - Visualisation du chemin en temps réel
 - 8 directions de mouvement (4 directions + diagonales)
