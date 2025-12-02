@@ -5,7 +5,7 @@ Un simulateur d'aspirateur intelligent avec pathfinding A* qui gère autonomique
 ## Fonctionnalités
 
 ### Navigation Intelligente
-- **Algorithme *** pour trouver le chemin optimal
+- **Algorithme \*** pour trouver le chemin optimal
 - Navigation autour des obstacles (meubles)
 - Visualisation du chemin en temps réel
 - 8 directions de mouvement (4 directions + diagonales)
@@ -79,7 +79,7 @@ pip install -r requirements.txt
 python aspirateurv2.py
 ```
 
-## 🎮 Contrôles
+## Contrôles
 
 | Touche | Action |
 |--------|--------|
@@ -215,8 +215,6 @@ Ce projet est un projet pédagogique pour l'IA et les systèmes multi-agents.
 ## Auteur
 
 Créé comme projet d'apprentissage IA 
-
-        === Christian Kitory
 
 ---
 
